@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-System.out.println("LOL");
+ ksiazka k1 = new ksiazka("a","t",10,true);
         }
     }
